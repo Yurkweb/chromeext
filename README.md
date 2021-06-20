@@ -1,0 +1,1 @@
+# chrome_ext_copy_text
